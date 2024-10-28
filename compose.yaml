@@ -10,7 +10,7 @@ services:
   web:
     build:
       context: .
-      dockerfile: Dockerfile.pyphon
+      dockerfile: Dockerfile.python
     <<: [*restart]
     networks:
       backend:
