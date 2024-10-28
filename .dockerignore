@@ -1,5 +1,6 @@
 schema.pdf
 *.md
+#main.py
 not_tested_main.py
 compose.yaml
 .env
