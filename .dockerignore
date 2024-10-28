@@ -1,0 +1,14 @@
+schema.pdf
+*.md
+not_tested_main.py
+compose.yaml
+.env
+.git
+.gitignore
+*.log
+*.tmp
+*.temp
+proxy.yaml
+LICENSE
+haproxy/
+nginx/
