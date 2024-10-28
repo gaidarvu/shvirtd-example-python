@@ -17,6 +17,8 @@ services:
         ipv4_address: 172.20.0.5
     ports:
     - "5000:5000"
+    environment:
+      DATABASE_HOST: db
 
   db:
     image: mysql:8
