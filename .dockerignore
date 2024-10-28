@@ -1,7 +1,6 @@
 schema.pdf
 *.md
-#main.py
-not_tested_main.py
+main.py
 compose.yaml
 .env
 .git
