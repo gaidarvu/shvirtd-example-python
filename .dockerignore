@@ -12,3 +12,5 @@ proxy.yaml
 LICENSE
 haproxy/
 nginx/
+Dockerfile.python
+.dockerignore
